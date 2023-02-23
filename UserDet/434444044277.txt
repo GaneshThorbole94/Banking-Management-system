@@ -1,0 +1,10 @@
+------------------------------------------------------------ 
+****************  Your Account Details **************** 
+Account No = 434444044277 
+Your Name = Ganesh Thorbole 
+Your gender [Male/Female/Others] = Male 
+Your adhaar number [ID] = 291162170871 
+Your Phone number = 9881821696 
+Your Full address = 153,Swaraj Nagari Talegaon Dabhade [Station],Pune-410507 
+your account type = C 
+------------------------------------------------------------  
